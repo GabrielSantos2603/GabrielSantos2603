@@ -16,11 +16,11 @@
 const gabriel = {
   role: "Desenvolvedor Backend",
   stack: ["Node.js", "TypeScript", "Python", "PostgreSQL"],
-  focus: ["APIs REST", "Supabase + Row Level Security", "IA aplicada com LLMs"],
-  experience: "Fundador da Lumina AI Labs: sistemas web, apps e automações para empresas, do requisito ao deploy",
+  focus: ["APIs REST", "Supabase + RLS", "IA com LLMs"],
+  founded: "Lumina AI Labs",
   studying: "Engenharia de Software @ UniCesumar",
   learning: ["Arquitetura de software", "Inglês"],
-  openTo: "vagas de Desenvolvedor Backend (remoto, híbrido ou região de BH)",
+  openTo: "vagas de Backend (remoto ou região de BH)",
 };
 ```
 
