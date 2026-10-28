@@ -41,3 +41,11 @@ Gosto de pegar um processo manual, entender como ele funciona na prática e tran
 | [**visual-product-search-api**](https://github.com/GabrielSantos2603/visual-product-search-api) | API que encontra produtos à venda a partir da foto de um ambiente, usando um LLM com visão para enriquecer a busca | Node.js, Express, OpenAI, SerpApi |
 | [**lumina-erp**](https://github.com/GabrielSantos2603/lumina-erp) | ERP SaaS multi-tenant para escritórios de arquitetura, com assinaturas e assistente de reuniões com IA | React, TypeScript, Supabase, Stripe |
 | [**financas-pessoais**](https://github.com/GabrielSantos2603/financas-pessoais) | App de finanças instalável (PWA), com lançamentos recorrentes, orçamento e importação de planilhas | Next.js, Supabase, Zod, Vitest |
+
+### 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSantos2603/GabrielSantos2603/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielSantos2603/GabrielSantos2603/output/github-snake.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/GabrielSantos2603/GabrielSantos2603/output/github-snake.svg" />
+</picture>
