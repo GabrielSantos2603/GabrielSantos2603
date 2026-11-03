@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Desenvolvedor+Backend+com+foco+em+Seguran%C3%A7a;Node.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+PostgreSQL;Planejador+de+obras+que+automatiza+com+c%C3%B3digo" alt="Olá, eu sou o Gabriel — Desenvolvedor Backend com foco em Segurança" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Engenheiro+e+Arquiteto+de+Software;System+Design+%C2%B7+Arquitetura+%C2%B7+Dados+%C2%B7+IA;Node.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+PostgreSQL" alt="Olá, eu sou o Gabriel — Engenheiro e Arquiteto de Software" />
 
 <a href="https://www.linkedin.com/in/gabrielsantos-dados/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Betim%2C_MG-Brasil-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Betim, MG" />
-<img src="https://img.shields.io/badge/Aberto_a_vagas-Backend_%C2%B7_Seguran%C3%A7a-22C55E?style=for-the-badge" alt="Aberto a vagas de Backend e Segurança" />
+<img src="https://img.shields.io/badge/Aberto_a_vagas-Engenharia_%C2%B7_Arquitetura_de_Software-22C55E?style=for-the-badge" alt="Aberto a vagas de Engenharia e Arquitetura de Software" />
 
 </div>
 
@@ -14,17 +14,17 @@
 
 ```ts
 const gabriel = {
-  role: "Desenvolvedor Backend",
-  focus: ["Segurança de aplicações", "APIs REST", "Supabase + RLS"],
+  role: "Engenheiro e Arquiteto de Software",
+  focus: ["Arquitetura e system design", "Modelagem de dados", "Engenharia com IA"],
   stack: ["Node.js", "TypeScript", "Python", "PostgreSQL"],
-  day_job: "Planejador de obras (medições e controle de montagem)",
-  studying: "Tecnólogo em Segurança Cibernética (2026-2028)",
-  learning: ["Desenvolvimento seguro", "Inglês"],
-  openTo: "vagas de Backend com ênfase em segurança (remoto ou região de BH)",
+  day_job: "Analista de planejamento (medições e controle de montagem)",
+  openTo: "vagas de Engenheiro e Arquiteto de Software (remoto ou região de BH)",
 };
 ```
 
-Trabalho como planejador de obras e uso programação para automatizar o que é manual: medições, indicadores e acompanhamento viram painéis e ferramentas que o time usa no dia a dia. Fora do trabalho, construo sistemas completos e estudo segurança para entregar código que se sustenta: isolamento de dados no banco, validação de entrada e segredos fora do repositório.
+Projeto a estrutura dos sistemas: como os dados fluem, onde ficam as fronteiras entre módulos e quais decisões precisam ser simples. A IA é uma das minhas ferramentas de desenvolvimento, como o editor ou a linguagem, usada com revisão, testes e critérios claros.
+
+No trabalho, uso software para tirar planilhas manuais do caminho: medições, custos e acompanhamento de obra viram painéis e ferramentas que o time usa no dia a dia.
 
 ### 🛠️ Stack
 
@@ -42,11 +42,11 @@ Trabalho como planejador de obras e uso programação para automatizar o que é 
 | [**financas-pessoais**](https://github.com/GabrielSantos2603/financas-pessoais) | App de finanças instalável (PWA) com testes automatizados, incluindo testes das políticas de RLS, e CI | Next.js, Supabase, Zod, Vitest |
 | [**visual-product-search-api**](https://github.com/GabrielSantos2603/visual-product-search-api) | API que encontra produtos a partir da foto de um ambiente, com validação de upload e variáveis de ambiente | Node.js, Express, OpenAI, SerpApi |
 
-### 🔐 Segurança no meu código
+### 🏗️ Decisões de arquitetura nos meus projetos
 
-- **Isolamento por tenant no banco:** políticas de Row Level Security no PostgreSQL, em vez de depender só de filtros no front-end
-- **Entrada validada:** esquemas com Zod e limites de tipo e tamanho em uploads
-- **Segredos fora do repositório:** variáveis de ambiente e `.env.example` só com placeholders
+- **Isolamento por tenant no banco:** Row Level Security no PostgreSQL, em vez de depender só de filtros no front-end
+- **Contratos validados nas bordas:** esquemas com Zod e limites de tipo e tamanho em uploads
+- **Configuração fora do código:** variáveis de ambiente e `.env.example` só com placeholders
 - **Qualidade automatizada:** lint, checagem de tipos e testes rodando em CI
 
 ### 🐍 Contribuições
